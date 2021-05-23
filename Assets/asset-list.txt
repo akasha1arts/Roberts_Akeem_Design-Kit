@@ -1,0 +1,17 @@
+Asset List 
+- Player Character
+	- Animation
+	- Animation Controller 
+	- Avatar
+Scripts
+ - Enemy Controller - Snippets from Octobeard youTube. Tooltips and stun mechanic coded by me. 
+ - LightResource
+ - PlayerMovement - Snippets from Alexander Zotov youTube
+ - PowerUps
+
+
+- Sample Scene
+
+- Audio 
+
+- Animations 

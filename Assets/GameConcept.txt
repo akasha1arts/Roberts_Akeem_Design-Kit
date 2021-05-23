@@ -1,0 +1,30 @@
+Theme:
+
+Genre: Platformer
+
+Art Style: 2D or 3D
+
+The game is a 2D platformer set in the present world where there the sun has died out and the player must travel the cold dark world finding the remnants of light before they die out. Never looking back and forever going forward, the player must push forward through obstacles safely and swiftly before their light source gets swallowed by the dark.
+
+Game Mechanics:
+
+The objective of the game is to reach the end of the level while keeping your light source alive throughout the course. There should be items that players can interact with to replenish their light source once to continuously travel in the dark.
+
+Player is holding onto a diminishing light source in a dark environment.
+When the light is completely gone from the player, the player loses the game
+Basic player movement. (Ex: horizontal movement and jump)
+Enemy behavior / Hazards
+Going up and down or left and right in a fixed location
+Stuns the player upon impacting upon them
+Pickup upgrades that can momentarily boost the player’s speed, make them invulnerable to enemies, and replenish their light source to its maximum amount.
+When the player’s light dies out, the player loses a life and gets the maximum amount of light source.
+When the player loses all their lives, the player loses.
+Assets:
+
+Player character and a variety of enemies
+Icons or sprites that will represent items that the player can pick up automatically
+Environment set in earth
+
+CHANGES: 
+
+- The player only has one life and once it is gone. It is game over. 
